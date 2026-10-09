@@ -1,2 +1,2 @@
 # pyt
-inşallah bu sefer olcak
+inşallah bu sefer olacak
